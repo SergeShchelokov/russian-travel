@@ -1,0 +1,16 @@
+.footer__links {
+  margin: 0 18px 0 0;
+  display: flex;
+  justify-content: flex-start;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 1.125;
+  transition: 0.3s;
+}
+
+@media (max-width: 425px) {
+  .footer__links {
+    font-size: 24px;
+    line-height: 1;
+  }
+}

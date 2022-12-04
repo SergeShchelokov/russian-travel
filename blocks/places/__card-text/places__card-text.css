@@ -1,0 +1,8 @@
+.places__card-text {
+  margin: 0px;
+  padding-bottom: 26px;
+}
+
+.places__card-text:last-child {
+  padding-bottom: 0px;
+}

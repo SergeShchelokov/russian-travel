@@ -29,8 +29,8 @@
 
 @media (max-width: 425px) {
   .photo-grid {
+    padding: 0 16px 0px 16px;
     display: inline-block;
     text-align: center;
-    padding: 0 16px 0px 16px;
   }
 }
