@@ -10,7 +10,7 @@
   color: rgba(255, 255, 255, 1);
 }
 
-@media (max-width: 767px) {
+@media (max-width: 768px) {
   .lead__caption {
     padding: 0;
     margin-left: 24px;
@@ -18,7 +18,7 @@
   }
 }
 
-@media (max-width: 424px) {
+@media (max-width: 425px) {
   .lead__caption { 
     margin-left: 16px;
     margin-top: 8px;
