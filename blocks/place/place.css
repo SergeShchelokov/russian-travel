@@ -15,7 +15,7 @@
   .place {
     grid-template-columns: 440px 456px;
     gap: 41px 28px;
-     
+    justify-content:space-between;
   }
 }
 
@@ -42,14 +42,14 @@
 
 @media (max-width: 425px) {
   .place {
-    margin-bottom: 36px;
+    margin-bottom: 50px;
     display: flex;
     flex-direction: column;
     gap: 30px 40px;
   }
 
   .place:first-of-type {
-    margin-top: 22px;
+    margin-top: 0px;
   }
 }
 
