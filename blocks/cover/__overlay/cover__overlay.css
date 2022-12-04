@@ -7,7 +7,7 @@
   text-decoration: none;
   color: #fff;
   background-color: rgba(42, 44, 47, 0.3);
-  transition: linear;
+  transition: 0.3s ease-in-out;
 }
 
 .cover__overlay:hover {
