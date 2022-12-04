@@ -1,8 +1,8 @@
-.places__card-text {
+.place__paragraph {
   margin: 0px;
   padding-bottom: 26px;
 }
 
-.places__card-text:last-child {
+.place__paragraph:last-child {
   padding-bottom: 0px;
 }
