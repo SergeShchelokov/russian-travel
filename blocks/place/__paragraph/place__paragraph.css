@@ -1,4 +1,5 @@
 .place__paragraph {
+  max-width: 484px;
   margin: 0px;
   padding-bottom: 25px;
 }

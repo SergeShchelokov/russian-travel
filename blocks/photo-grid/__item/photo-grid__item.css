@@ -5,7 +5,7 @@
 
 @media (max-width: 425px) {
   .photo-grid__item {
-    margin-bottom: 12px;
+    margin-bottom: 8px;
   }
 
   .photo-grid__item:last-of-type {

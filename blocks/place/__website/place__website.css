@@ -1,13 +1,9 @@
 .place__website {
   align-self: flex-end;
+  font-size: 18px;
+  line-height: 1.222;
 }
 
-@media (max-width: 768px) {
-  .place__website {
-    font-size: 18px;
-    line-height: 1.222;
-  }
-}
 
 @media (max-width: 425px) {
   .place__website {

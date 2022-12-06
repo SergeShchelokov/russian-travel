@@ -2,15 +2,11 @@
   margin: 0;
   padding: 0;
   margin-bottom: 12px;
-  font-weight: normal;
+  font-weight: 400;
   text-transform: uppercase;
+  letter-spacing: 2px;
   font-size: 12px;
-  line-height: 1.666;
+  line-height: 1;
   color: #aaaaaa;
 }
 
-@media (max-width: 768px) {
-  .place__url-heading {
-    line-height: 1;
-  }
-}
